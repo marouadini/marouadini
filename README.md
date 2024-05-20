@@ -1,5 +1,5 @@
 <h1>Hi there 😊, i'm Maroua !!!</h1> 
-<hr>
+
 
 
 
@@ -18,8 +18,8 @@ Hi, i'm Maroua DINI, a Software Engineer and Test Automation from Tetouan, Moroc
 
 
   
-☕**Tech tools and skills :**
-<hr>
+<h2>☕Tech tools and skills :</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,react,spring,angular,selenium,c,cpp,cs,bootstrap,html,php,postgres,postman,mysql"/>
